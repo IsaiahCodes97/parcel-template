@@ -1,0 +1,10 @@
+// @import "./titles.scss";
+@import 'variables';
+
+
+body {
+  background:$background;
+  h1 {
+    text-transform:uppercase;
+  }
+}
